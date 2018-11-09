@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/furhacker/furhacker.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+您可以使用[GitHub上的编辑器](https://github.com/furhacker/furhacker.github.io/edit/master/index.md)在Markdown文件中维护和预览网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当您提交到此存储库时，GitHub页面将运行[Jekyll](https://jekyllrb.com/)来从标记文件中的内容重新构建站点中的页面。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻量级的、易于使用的语法，用于样式化您的写作。 It includes conventions for
 
 ```markdown
 Syntax highlighted code block
